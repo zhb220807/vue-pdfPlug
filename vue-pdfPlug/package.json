@@ -1,19 +1,19 @@
 {
-  "_from": "vue-pdf@^4.0.8",
-  "_id": "vue-pdf@4.0.8",
+  "_from": "vue-pdfPlug@^1.0.0",
+  "_id": "vue-pdfPlug@1.0.0",
   "_inBundle": false,
   "_integrity": "sha512-R/Bv/0KhTXH/v6aBnCY6vqhN+p6HDNFohMOWtJyYrF7KtHbMYQaRhQg9Z0+7HyboApnx4P+lpZP+Xrl2JZE6HA==",
-  "_location": "/vue-pdf",
+  "_location": "/vue-pdfPlug",
   "_phantomChildren": {},
   "_requested": {
     "type": "range",
     "registry": true,
-    "raw": "vue-pdf@^4.0.8",
-    "name": "vue-pdf",
-    "escapedName": "vue-pdf",
-    "rawSpec": "^4.0.8",
+    "raw": "vue-pdfPlug@1.0.0",
+    "name": "vue-pdfPlug",
+    "escapedName": "vue-pdfPlug",
+    "rawSpec": "^1.0.01.0.0",
     "saveSpec": null,
-    "fetchSpec": "^4.0.8"
+    "fetchSpec": "^1.0.0"
   },
   "_requiredBy": [
     "#USER",
@@ -27,7 +27,7 @@
     "name": "Franck FREIBURGER"
   },
   "bugs": {
-    "url": "https://github.com/FranckFreiburger/vue-pdf/issues"
+    "url": "https://github.com/zhb220807/vue-pdfPlug/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -39,7 +39,7 @@
   },
   "deprecated": false,
   "description": "vue.js pdf viewer",
-  "homepage": "https://github.com/FranckFreiburger/vue-pdf#readme",
+  "homepage": "https://github.com/zhb220807/vue-pdfPlug#readme",
   "keywords": [
     "vue.js",
     "pdf",
@@ -47,10 +47,10 @@
   ],
   "license": "MIT",
   "main": "src/vuePdfNoSss.vue",
-  "name": "vue-pdf",
+  "name": "vue-pdfPlug",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FranckFreiburger/vue-pdf.git"
+    "url": "git+https://github.com/zhb220807/vue-pdfPlug.git"
   },
   "scripts": {},
   "version": "4.0.8"
